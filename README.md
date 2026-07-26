@@ -1,98 +1,161 @@
 <p align="center">
   <img src="./banner.png" alt="Ahmed Adawy Banner" width="100%">
 </p>
+
 <h1 align="center">Hi 👋, I'm Ahmed Adawy</h1>
 
 <h3 align="center">
-Computational Nuclear Engineer • Scientific Python • Numerical Methods • AI Engineering
+Computational Nuclear Engineer • Scientific Python Developer • Numerical Methods • AI Engineer
 </h3>
 
 <p align="center">
-Building scientific software, numerical simulations, and practical AI engineering projects.
+Building open-source scientific software, reactor simulations, AI engineering projects, and technical educational content.
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 🔬 Computational Nuclear Engineering
+- ⚛️ Computational Nuclear Engineer
 - 🐍 Scientific Python Developer
 - 🤖 AI Engineering & Transformer Architectures
 - 📐 Numerical Methods & Scientific Computing
-- ✍️ Technical Author
-- 🌱 Passionate about building open-source educational projects
+- 🧠 Building reactor simulators from scratch
+- ✍️ Author of **The Atomic Engine**
+- 📚 Writing books, tutorials, and open-source educational projects
 
 ---
 
 ## 🛠 Tech Stack
 
-**Languages**
+### Languages
+
 - Python
 
-**Scientific Computing**
+### Scientific Computing
+
 - NumPy
 - SciPy
-- Numba
+- Matplotlib
+- Pandas
+
+### AI & Machine Learning
+
 - PyTorch
+- Transformers
+- Hugging Face
 
-**Engineering**
-- Numerical Methods
-- Monte Carlo
-- Reactor Physics
-- Scientific Computing
-- Software Architecture
+### Software Engineering
 
----
-
-## 📚 Featured Projects
-
-### 🔹 Python Loop Optimizer
-Optimizing Python loops for high-performance scientific computing.
-
-### 🔹 System Architecture Demo
-Practical software architecture using Python.
+- Clean Architecture
+- SOLID Principles
+- Dependency Injection
+- Design Patterns
+- Git
+- GitHub
 
 ---
 
-## ✍️ Publications
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=adawy20262026-oss&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adawy20262026-oss&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=adawy20262026-oss&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+## ⚛️ Python Loop Optimizer
+
+Performance optimization techniques for scientific Python.
+
+https://github.com/adawy20262026-oss/python-loop-optimizer
+
+---
+
+## 🏗 System Architecture Demo
+
+Practical implementation of:
+
+- Clean Architecture
+- SOLID Principles
+- Dependency Injection
+- Testing
+- Extensible Design
+
+https://github.com/adawy20262026-oss/system-architecture-demo
+
+---
+
+# ✍️ Latest Writing
 
 📰 Medium
+
 https://medium.com/@anasahmedadawy
-
-📖 Hashnode
-https://hashnode.com/@ai-architecture
-
-🚀 DEV Community
-https://dev.to/ahmedadawy625
-
-📚 Leanpub
-https://leanpub.com/u/anas-ahmedadawy
-
-📰 Substack
-https://adawy2026.substack.com
 
 ---
 
-## 🌐 Connect with Me
+💻 DEV Community
+
+https://dev.to/ahmedadawy625
+
+---
+
+📚 Hashnode
+
+https://hashnode.com/@ai-architecture
+
+---
+
+📖 Leanpub
+
+https://leanpub.com/u/anas-ahmedadawy
+
+---
+
+# 🌐 Connect With Me
 
 💼 LinkedIn
 
 https://www.linkedin.com/in/ahmed-adawy-41a4ba321
 
-🐙 GitHub
+---
 
-https://github.com/adawy20262026-oss
+# 💬 Favorite Quote
+
+> "Great engineering isn't about writing more code. It's about building systems that remain simple, scalable, and understandable."
 
 ---
 
-## 🎯 Current Focus
+# 📈 Current Focus
 
-- Building reactor simulators from scratch
+- Scientific AI
+- Numerical Simulation
+- Reactor Physics
 - Scientific Python
-- AI Engineering
-- Numerical Methods
-- Open-source educational projects
+- High-Performance Computing
+- Transformer Architectures
+- Open Source
 
 ---
 
-⭐ Thanks for visiting my profile!
+<p align="center">
+
+⭐ If you enjoy my work, consider following me and starring my repositories.
+
+</p>

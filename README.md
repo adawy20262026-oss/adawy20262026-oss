@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="./banner.png" alt="Ahmed Adawy Banner" width="100%">
+</p>
 <h1 align="center">Hi 👋, I'm Ahmed Adawy</h1>
 
 <h3 align="center">
